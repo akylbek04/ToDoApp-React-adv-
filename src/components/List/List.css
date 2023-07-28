@@ -1,0 +1,8 @@
+.List{
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo-actions button {
+    margin-right: 2px;
+}
